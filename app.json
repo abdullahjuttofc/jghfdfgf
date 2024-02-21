@@ -3,7 +3,7 @@
   "description": "I am ZAHREELA-MD Whatsapp BOT built in NodeJs by ZAHREELA to make experience better",
   "logo": "https://i.imgur.com/KYx7iPf.jpeg",
   "keywords": ["whatsappbot", "zahreela", "zahreela md bot", "zahreela-md", "zahreela md whatsapp bot", "zahreela wa bot","ZAHREELA-MD","ZAHREELA Whatsapp Bot","multi device"],
-  "success_url":/suhail/",
+  "success_url": "/zahreela/",
   "app_url": "/zahreela/",
   
   "env": {
